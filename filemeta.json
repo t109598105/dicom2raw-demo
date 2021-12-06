@@ -1,0 +1,14 @@
+{
+	"dicom": {
+		"series": "1-51",
+		"step": 1,
+		"name": "IM-0001-%4d.dcm",
+		"path": "./corcta-dcm/",
+		"outputname": "CorCTA"
+	},
+	"nrrd": {
+		"name": "I.nrrd",
+		"path": "./nrrd-file/",
+		"outputname": "Brain"
+	}
+}
